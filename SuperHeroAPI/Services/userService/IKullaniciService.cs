@@ -1,6 +1,6 @@
 ﻿namespace SuperHeroAPI.Services.KullanıcıService
 {
-    public interface IKullanıcıService
+    public interface IKullaniciService
     {
         Task<List<User>> GetAllUsers();
         Task<User> GetSingleUser(int id);

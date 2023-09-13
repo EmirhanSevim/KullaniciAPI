@@ -11,9 +11,9 @@ namespace SuperHeroAPI.Controllers
     [ApiController]
     public class userController : ControllerBase
     {
-        private readonly IKullanıcıService _superHeroService;
+        private readonly IKullaniciService _superHeroService;
 
-        public userController(IKullanıcıService superHeroService)
+        public userController(IKullaniciService superHeroService)
         {
            _superHeroService = superHeroService;
         }

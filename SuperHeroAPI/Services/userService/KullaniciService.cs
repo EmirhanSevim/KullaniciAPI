@@ -4,12 +4,12 @@ using SuperHeroAPI.Services.KullanıcıService;
 
 namespace SuperHeroAPI.Services.SuperHeroService
 {
-    public class KullanıcıService : IKullanıcıService
+    public class KullaniciService : IKullaniciService
     {
 
         private readonly DataContext _context;
 
-        public KullanıcıService(DataContext context)
+        public KullaniciService(DataContext context)
         {
             _context = context;
         }
