@@ -1,11 +1,11 @@
 global using SuperHeroAPI.Models;
 global using SuperHeroAPI.Data;
-using SuperHeroAPI.Services.KullanýcýService;
+using SuperHeroAPI.Services.KullaniciService;
 using SuperHeroAPI.Services.SuperHeroService;
-using KullanýcýlarAPI.Services.CategoryService;
-using KullanýcýlarAPI.Services.BookmarkService;
-using KullanýcýlarAPI.Services.userBookmarkService;
-using KullanýcýlarAPI.Services.userLikeService;
+using KullanicilarAPI.Services.CategoryService;
+using KullanicilarAPI.Services.BookmarkService;
+using KullanicilarAPI.Services.userBookmarkService;
+using KullanicilarAPI.Services.userLikeService;
 
 var builder = WebApplication.CreateBuilder(args);
 

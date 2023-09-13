@@ -1,8 +1,8 @@
-﻿using KullanıcılarAPI.Models;
-using KullanıcılarAPI.Services.userLikeService;
+﻿using KullanicilarAPI.Models;
+using KullanicilarAPI.Services.userLikeService;
 using Microsoft.AspNetCore.Mvc;
 
-namespace KullanıcılarAPI.Controllers
+namespace KullanicilarAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

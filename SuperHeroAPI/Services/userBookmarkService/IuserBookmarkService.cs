@@ -1,6 +1,6 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 
-namespace KullanıcılarAPI.Services.userBookmarkService
+namespace KullanicilarAPI.Services.userBookmarkService
 {
     public interface IuserBookmarkService
     {

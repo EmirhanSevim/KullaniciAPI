@@ -1,6 +1,6 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 
-namespace KullanıcılarAPI.Services.CategoryService
+namespace KullanicilarAPI.Services.CategoryService
 {
     public interface ICategoryService
     {

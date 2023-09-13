@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SuperHeroAPI.Models;
-using SuperHeroAPI.Services.KullanıcıService;
+using SuperHeroAPI.Services.KullaniciService;
 using SuperHeroAPI.Services.SuperHeroService;
 
 namespace SuperHeroAPI.Controllers

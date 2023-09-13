@@ -8,7 +8,7 @@ using SuperHeroAPI.Data;
 
 #nullable disable
 
-namespace KullanıcılarAPI.Migrations
+namespace KullanicilarAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
     partial class DataContextModelSnapshot : ModelSnapshot

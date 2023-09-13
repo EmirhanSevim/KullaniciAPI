@@ -1,6 +1,6 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 
-namespace KullanıcılarAPI.Services.userLikeService
+namespace KullanicilarAPI.Services.userLikeService
 {
     public interface IuserLikeService
     {

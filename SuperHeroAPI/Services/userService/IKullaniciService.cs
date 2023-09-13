@@ -1,4 +1,4 @@
-﻿namespace SuperHeroAPI.Services.KullanıcıService
+﻿namespace SuperHeroAPI.Services.KullaniciService
 {
     public interface IKullaniciService
     {

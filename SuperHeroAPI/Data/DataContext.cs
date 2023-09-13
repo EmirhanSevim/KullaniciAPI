@@ -1,4 +1,4 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 using Microsoft.EntityFrameworkCore;
 using SuperHeroAPI.Models;
 

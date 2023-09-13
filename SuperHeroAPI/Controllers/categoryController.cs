@@ -1,8 +1,8 @@
-﻿using KullanıcılarAPI.Models;
-using KullanıcılarAPI.Services.CategoryService;
+﻿using KullanicilarAPI.Models;
+using KullanicilarAPI.Services.CategoryService;
 using Microsoft.AspNetCore.Mvc;
 
-namespace KullanıcılarAPI.Controllers
+namespace KullanicilarAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

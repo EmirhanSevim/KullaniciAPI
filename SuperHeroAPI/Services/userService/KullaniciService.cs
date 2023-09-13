@@ -1,6 +1,6 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 using Microsoft.EntityFrameworkCore;
-using SuperHeroAPI.Services.KullanıcıService;
+using SuperHeroAPI.Services.KullaniciService;
 
 namespace SuperHeroAPI.Services.SuperHeroService
 {

@@ -1,4 +1,4 @@
-﻿namespace KullanıcılarAPI.Models
+﻿namespace KullanicilarAPI.Models
 {
     public class Bookmark
     {

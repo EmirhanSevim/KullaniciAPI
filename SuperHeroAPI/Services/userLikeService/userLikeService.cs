@@ -1,7 +1,7 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace KullanıcılarAPI.Services.userLikeService
+namespace KullanicilarAPI.Services.userLikeService
 {
     public class UserLikeService : IuserLikeService 
     {

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace KullanıcılarAPI.Migrations
+namespace KullanicilarAPI.Migrations
 {
     /// <inheritdoc />
     public partial class changingkullanicitouser : Migration

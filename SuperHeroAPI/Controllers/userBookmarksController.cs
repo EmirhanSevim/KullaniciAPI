@@ -1,8 +1,8 @@
-﻿using KullanıcılarAPI.Models;
-using KullanıcılarAPI.Services.userBookmarkService;
+﻿using KullanicilarAPI.Models;
+using KullanicilarAPI.Services.userBookmarkService;
 using Microsoft.AspNetCore.Mvc;
 
-namespace KullanıcılarAPI.Controllers
+namespace KullanicilarAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -1,7 +1,7 @@
-﻿using KullanıcılarAPI.Models;
+﻿using KullanicilarAPI.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace KullanıcılarAPI.Services.userBookmarkService
+namespace KullanicilarAPI.Services.userBookmarkService
 {
     public class userBookmarkService : IuserBookmarkService
     {

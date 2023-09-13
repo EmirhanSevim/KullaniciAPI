@@ -8,7 +8,7 @@ using SuperHeroAPI.Data;
 
 #nullable disable
 
-namespace KullanıcılarAPI.Migrations
+namespace KullanicilarAPI.Migrations
 {
     [DbContext(typeof(DataContext))]
     [Migration("20230908120413_denemee2")]
